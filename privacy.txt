@@ -1,0 +1,31 @@
+Privacy Policy for PC Authenticator
+Effective Date: 06/05/2025
+
+1. Introduction
+PC Authenticator (“we”, “us”, or “our”) is committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and your choices regarding your information when you use the PC Authenticator browser extension.
+2. Information We Collect
+a. User-Provided Information
+2FA Account Data: When you add an account, you may provide an account name, email address (optional), and a secret key for generating authentication codes.
+Account Number: When you create or log in to your PC Authenticator account, an account number is generated and stored.
+b. Automatically Collected Information
+No Personal Tracking: The extension does not track your browsing history, location, or user activity outside of its core functionality.
+No Location Data: We do not collect or use your geographic location.
+3. How We Use Information
+Local Storage: All 2FA account data and account numbers are stored locally in your browser using Chrome’s storage system.
+Cloud Backup (Optional): If you choose to use the cloud backup feature, your account data (including secret keys and account numbers) is securely transmitted to our server at https://pc-authenticator-pdpy.onrender.com/api for backup and recovery purposes.
+No Analytics or Advertising: We do not use your data for analytics, advertising, or any third-party marketing.
+4. Data Sharing and Disclosure
+No Third-Party Sharing: We do not sell, trade, or otherwise transfer your information to outside parties.
+Service Providers: Your data is only transmitted to our own backend server for the purpose of backup and recovery, and is not shared with any other service.
+5. Data Security
+We take reasonable measures to protect your information from unauthorized access, alteration, disclosure, or destruction. All communication with our server is encrypted using HTTPS.
+6. User Control and Choices
+Local Data: You can add, edit, or delete your 2FA accounts at any time within the extension.
+Cloud Backup: You may choose whether or not to use the cloud backup feature. You can request deletion of your cloud backup by contacting us at [your support email].
+7. Children’s Privacy
+PC Authenticator is not intended for use by children under the age of 13. We do not knowingly collect personal information from children.
+8. Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
+9. Contact Us
+If you have any questions or concerns about this Privacy Policy or your data, please contact us at:
+Email: chrisevlidis.main@gmail.com
